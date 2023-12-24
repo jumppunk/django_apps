@@ -7,7 +7,7 @@ https://github.com/flavors/django-graphql-jwt
 
 Защита входа
 https://github.com/jazzband/django-axes
-https://github.com/jazzband/django-defender
+https://github.com/jazzband/django-defender 
 
 Debug
 https://github.com/jazzband/django-debug-toolbar
